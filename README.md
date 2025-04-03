@@ -139,7 +139,6 @@ implies the signal has been compressed to 25% of its original size, using only a
 
 
 ---
----
 
 ## Plotting Results
 Visualize reconstructed signals alongside the original signals to compare fidelity and compression effects. Specific plots include:
