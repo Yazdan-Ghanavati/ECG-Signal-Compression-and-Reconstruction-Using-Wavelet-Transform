@@ -1,4 +1,4 @@
-# Signal Analysis and Wavelet Transform README
+# Signal Analysis and Wavelet Transform 
 
 ## Overview
 This project revolves around analyzing signals using **Wavelet Transform techniques**, with a particular focus on compressing and reconstructing signals efficiently. Signal compression is vital in fields like biomedical engineering (e.g., ECG signal analysis), telecommunications, and data processing, where storage and bandwidth constraints demand innovative solutions.
